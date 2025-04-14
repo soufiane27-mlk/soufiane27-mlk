@@ -7,9 +7,9 @@
 ---
 
 ### 🧠 About Me
-- 🎓 4th-year student in **Network & Telecommunication Engineering** at **ENSA Fès**
+- 🎓 **Network & Telecommunication Engineering** at **ENSA Fès**
 - 🔒 Passionate about **Cybersecurity**, **CTFs**, and **Defensive Security**
-- 💣 CTF specialties: `Forensics`, `Cryptography`, `Web`, `Reverse Engineering`
+- 💣 CTF specialties: `Forensics`, `Cryptography`, `Web`, `Blockchain`
 - 🛡️ Building Red vs Blue lab environments with:
   - `Linux`, `Windows Active Directory`, `Web Apps`, and more
 - 🧪 Tinkering with `Malware`, `Packet Captures`, and `Log Analysis`
